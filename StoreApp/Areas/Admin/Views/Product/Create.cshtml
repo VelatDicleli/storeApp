@@ -1,0 +1,41 @@
+﻿@model ProductDtoForInsertion
+
+
+<div>
+    <form method="post" asp-action="Create" enctype="multipart/form-data">
+        <div class="form-group">
+            <div asp-validation-summary="All"></div>
+            <div asp-validation-for="CategoryId"></div>
+            
+            <label asp-for="CategoryId"></label>
+
+            @if (ViewBag.Categories != null)
+            {
+                <select asp-for="CategoryId" class="form-control">
+                    @foreach (Category item in ViewBag.Categories)
+                    {
+                    <option value="@item.CategoryId">@item.CategoryName</option>
+                    }
+
+                </select>
+                
+            }
+           
+
+            <label asp-for="ProductName" ></label>
+            <input asp-for="ProductName" class="form-control" />
+
+            <label asp-for="Price"></label>
+            <input asp-for="Price" class="form-control" />
+            <label asp-for="ImageUrl"></label>
+            <input name="file" type="file" class="form-control"/>
+            
+
+            <button class="btn btn-info" type="submit">Kaydet</button>
+
+            
+        </div>
+    </form>
+</div>
+
+

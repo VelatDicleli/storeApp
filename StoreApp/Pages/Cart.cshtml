@@ -1,0 +1,49 @@
+﻿@page
+@using StoreApp.Infrastructer.Extensions;
+@model StoreApp.Pages.CartModel
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Cost</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model?.cart.Lines ?? Enumerable.Empty<CartLine>())
+        {
+            <tr>
+                <td>@item.Product.ProductName</td>
+                <td>@item.Quantity</td>
+                <td>@item.Product.Price</td>
+                <td>@((item.Product.Price * item.Quantity))</td>
+                <td>
+                    <form method="post" asp-page-handler="Remove">
+                        <input type="hidden" name="id" value="@item.Product.ProductId" />
+                        <input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+                        <button type="submit" class="btn btn-outline-danger">
+                            Remove
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3">Total cost:</td>
+            <td class="text-right text-success fw-bold">
+                @(Model?.cart.TotalValue() == 0 ? "Empty :(" : Model?.cart.TotalValue().ToString())
+                
+            </td>
+        </tr>
+    </tfoot>
+</table>
+<div class="btn btn-group">
+    <a class="btn btn-outline-info" href="@Model?.ReturnUrl">Continue</a>
+    <a class="btn btn-primary " asp-action="Checkout" asp-controller="Order">Checkout</a>
+</div>
+

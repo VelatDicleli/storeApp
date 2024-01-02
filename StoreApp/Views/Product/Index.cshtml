@@ -1,0 +1,23 @@
+﻿
+@model IEnumerable<ProductDto>
+
+  <div class="row">
+    
+    <div class="col-md-3">
+        @await Component.InvokeAsync("CategoriesMenu")
+        @await Component.InvokeAsync("ProductFilterMenu")
+    </div>
+
+    <div class="col-md-9 justify-content-md-start">
+    
+            
+            <div>
+           @foreach (ProductDto item in Model)
+            {
+                <partial name="_ProductCard" model="@item"></partial>
+            }
+            </div>
+
+    </div>
+   </div>
+   

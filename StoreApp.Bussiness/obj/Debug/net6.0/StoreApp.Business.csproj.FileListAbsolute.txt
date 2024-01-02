@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Business.deps.json
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Business.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Business.pdb
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.DataAccess.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Entities.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.DataAccess.pdb
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Entities.pdb
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Business.csproj.CopyComplete
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Business.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\refint\StoreApp.Business.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Business.pdb
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\ref\StoreApp.Business.dll

@@ -1,0 +1,13 @@
+﻿@model Product
+
+
+    <p>@Model.ProductName</p>
+    <p>@Model.Price</p>
+
+
+<form method="post">
+    <input type="hidden" asp-for="ProductId" />
+    <button type="submit" asp-action="Delete">Sil</button>
+    <a class="btn btn-success" asp-action="Update" asp-route-id="@Model.ProductId">Güncelle</a>
+</form>
+

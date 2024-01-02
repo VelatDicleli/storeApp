@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Bussiness.deps.json
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Bussiness.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Bussiness.pdb
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.DataAccess.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Entities.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.DataAccess.pdb
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\bin\Debug\net6.0\StoreApp.Entities.pdb
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Bussiness.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Bussiness.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Bussiness.AssemblyInfo.cs
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Bussiness.csproj.CopyComplete
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Bussiness.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\refint\StoreApp.Bussiness.dll
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\StoreApp.Bussiness.pdb
+C:\Users\User\Desktop\Store\StoreApp.Bussiness\obj\Debug\net6.0\ref\StoreApp.Bussiness.dll

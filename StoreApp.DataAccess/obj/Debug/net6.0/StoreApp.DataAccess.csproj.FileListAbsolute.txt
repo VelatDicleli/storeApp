@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\bin\Debug\net6.0\StoreApp.DataAccess.deps.json
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\bin\Debug\net6.0\StoreApp.DataAccess.dll
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\bin\Debug\net6.0\StoreApp.DataAccess.pdb
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\bin\Debug\net6.0\StoreApp.Entities.dll
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\bin\Debug\net6.0\StoreApp.Entities.pdb
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\StoreApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\StoreApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\StoreApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\StoreApp.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\StoreApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\StoreApp.DataAccess.csproj.CopyComplete
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\StoreApp.DataAccess.dll
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\refint\StoreApp.DataAccess.dll
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\StoreApp.DataAccess.pdb
+C:\Users\User\Desktop\Store\StoreApp.DataAccess\obj\Debug\net6.0\ref\StoreApp.DataAccess.dll

@@ -1,0 +1,40 @@
+﻿@model ProductDtoForUpdate
+
+
+<div>
+    <form method="post" asp-action="Edit" enctype="multipart/form-data">
+        <div class="form-group">
+            <div asp-validation-summary="All">  </div>
+            <label asp-for="CategoryId"></label>
+            <select class="form-control" asp-for="CategoryId">
+                @foreach (Category item in ViewBag.Categories)
+                {
+                    <option value="@item.CategoryId">@item.CategoryName</option>
+                }
+            </select>
+
+            
+            <input type="hidden" asp-for="ProductId" />
+            
+            <label asp-for="ProductName"></label>
+            <input asp-for="ProductName" class="form-control" />
+
+            <label asp-for="Price"></label>
+            <input asp-for="Price" class="form-control" />
+            
+            
+            <div>
+                <img class="rounded shadow" width="200px" src="@Model?.ImageUrl" />
+            </div>
+            
+            <label asp-for="ImageUrl"></label>
+            
+            <input asp-for="ImageUrl" name="existingImageUrl" type="hidden" value="@Model?.ImageUrl" />
+            <input name="file" type="file" class="form-control" />
+
+            <button class="btn btn-info" type="submit">Kaydet</button>
+
+
+        </div>
+    </form>
+</div>
